@@ -7,7 +7,7 @@ Este repositorio se ha creado para la realización de ejercicios de la asignatur
 
 2.Luego he clonado el fork del repositorio en mi directorio local para poder empezar a trabajar.
 
-3.He creado este repositorio con  git init . El repositorio está en https://github.com/Investigador/implementacion-eas 
+3.He creado este repositorio. El repositorio está en https://github.com/Investigador/implementacion-eas 
 
 4.He completado las instrucciones en https://github.com/JJ/implementacion-eas/blob/master/primera.md.
 

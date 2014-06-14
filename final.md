@@ -38,4 +38,4 @@ mismo documento, al release (forma preferida) o a la documentación
 
 * [Práctica final de Pablo, en C++](https://github.com/pablopaolus/AG_Pablo), [Documentación](https://github.com/pablopaolus/AG_Pablo/blob/master/docu_ag_completo.md)
 
-* [Práctica final de Alfonso, en C++](https://github.com/Investigador/Practica-Final), [Documentación](https://github.com/Investigador/Practica-Final/Informacion.mhttps://github.com/Investigador/Practica-Final/blob/master/Informacion.md)
+* [Práctica final de Alfonso, en C++](https://github.com/Investigador/Practica-Final), [Documentación](https://github.com/Investigador/Practica-Final/blob/master/Informacion.md)
